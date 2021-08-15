@@ -1,0 +1,10 @@
+
+{
+  "headers": {
+    "action": "GET"
+  },
+  "body": [{
+    "id": 111111,
+    "content": "some string"
+  }]
+}
