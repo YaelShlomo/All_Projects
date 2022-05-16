@@ -1,0 +1,12 @@
+.grid-container {
+    grid-gap: 20px; 
+    background-color: #ffeb3b;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    /* display: inline-block; */
+    text-align: right;
+    margin-top: 5%;
+  }
+ 

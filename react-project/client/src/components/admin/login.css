@@ -1,0 +1,10 @@
+form#login{
+    width: 250px;
+}
+.row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+button[class*=btn] {
+    width: 200px;
+}

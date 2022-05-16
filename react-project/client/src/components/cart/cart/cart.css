@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+html,
+body {
+width: 100%;
+height: 100%;
+margin: 0;
+font-family: 'Roboto', sans-serif;
+}
+
+.shopping-cart {
+    width: 750px;
+    margin: 80px auto;
+    background: #f4f804;
+    box-shadow: 6px 6px 3px #fde71e,
+    -6px -6px 3px #f0f345;
+    border-radius: rgb(229, 255, 0) solid 6px;
+   
+    display: flex;
+    flex-direction: column;
+  }
+#payment {
+    background: #f7f334;
+    border-radius: #e1f00d;
+}
